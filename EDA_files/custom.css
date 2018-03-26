@@ -28,7 +28,7 @@ div#header, div#site {
     <script>
       require.config({
           
-          urlArgs: "v=20180326023721",
+          urlArgs: "v=20180326024907",
           
           baseUrl: '/static/',
           paths: {
@@ -124,7 +124,7 @@ div#header, div#site {
 <body class=""
  
   
-    data-jupyter-api-token="d79121465ba2869716e24b2dcc3273b43e296ac2fa5fd950"
+    data-jupyter-api-token="f87535c27b10b5242500d934081ffe3fd7bfba7e7e669e87"
   
  
 >
